@@ -11,5 +11,6 @@
 - APP Installation Pack (Android)：[WonderPi](https://play.google.com/store/apps/details?id=com.Wonder.Pi)
 - APP Installation Pack (iOS)：[WonderPi](https://apps.apple.com/cn/app/wonderpi/id1477946178)
 - Virtual Machine Installation Pack: [Virtual Machine Installation Pack](https://drive.google.com/drive/folders/1lmEmgLzGfvaDCAYJxhuYsjMH1i8u975F?usp=sharing)
-- Firmware Download software : [en.flasher-stm32.zip](https://drive.google.com/drive/folders/19-OdmuEvq6YFiiWtf4GI0zELwP00l6FZ?usp=sharing)
-- WonderEchoPro firmware burning tool : [WonderEchoPro firmware burning tool](https://drive.google.com/drive/folders/1UrXfeeZ4wk-Gyj1EvDi_IjqkF1Lhv2pI?usp=sharing)
+- Firmware Download software: [en.flasher-stm32.zip](https://drive.google.com/drive/folders/19-OdmuEvq6YFiiWtf4GI0zELwP00l6FZ?usp=sharing)
+- WonderEchoPro firmware burning tool: [WonderEchoPro firmware burning tool](https://drive.google.com/drive/folders/1UrXfeeZ4wk-Gyj1EvDi_IjqkF1Lhv2pI?usp=sharing)
+- Serial Port Debugging Tool: [Serial Port Debugging Tool.exe](https://drive.google.com/drive/folders/1iU72Z1S5ZHMXMDXKb7Bw4s_phYPCCc-5?usp=sharing)
